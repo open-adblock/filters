@@ -1,0 +1,2 @@
+! OpenAdBlock cosmetic allowlist
+! Shared source of truth: open-adblock/filters/chrome/allowlist/cosmetic.txt
