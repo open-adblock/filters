@@ -1,2 +1,0 @@
-! OpenAdBlock network allowlist
-! Shared source of truth: open-adblock/filters/chrome/allowlist/network.txt
