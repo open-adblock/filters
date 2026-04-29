@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://open-adblock.github.io/filters/remote-manifest.schema.json",
+  "$id": "https://cdn.jsdelivr.net/gh/open-adblock/filters@main/browser/sources/remote-manifest.schema.json",
   "title": "OpenAdBlock Remote Filter Manifest",
   "type": "object",
   "required": ["schemaVersion", "version", "files"],

@@ -2,6 +2,7 @@
 
 Shared filter data for the OpenAdBlock projects lives here.
 
+- `manifest.json`: remote browser filter manifest served through jsDelivr.
 - `dns/`: DNS preset URL lists, custom DNS rules, fetched upstream cache, and compiled blob output.
 - `browser/`: shared browser client filter metadata, generated cosmetic fixtures, and curated allowlists for Chrome, Android, iOS, and other app variants.
 
